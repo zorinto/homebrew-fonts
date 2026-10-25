@@ -9,10 +9,11 @@ Official Homebrew tap for installing Zorinto developer fonts on macOS.
 
 ## Installation
 
-Add this tap:
+Add and trust this tap:
 
 ```sh
 brew tap zorinto/fonts
+brew trust zorinto/fonts
 ```
 
 Install standard Hari Mono:
